@@ -6,6 +6,11 @@ My notes &amp; journal material for Code Fellows :trollface:
 
 ***Here is my Interpretation of growth mindset***
 
+<table>
+  <tr>
+    <td>test</td>
+  </tr>
+</table>
 
 <!-- custom sprite adjacent to reminders are from doom the video game had forgot I created it and made custom emojis? -->
 
