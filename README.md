@@ -18,9 +18,9 @@ My notes &amp; journal material for Code Fellows :trollface:
 <!-- custom sprite adjacent to reminders are from doom the video game had forgot I created it and made custom emojis? -->
 
 <ol>
-<li>- Reminder</li> :hurtrealbad: 1
-<li>- Reminder</li> :rage1: 2
-<li>- Reminder</li> :godmode: 3
+<li>- always making sure to keep positive even in the times of hardship, its like hidden virutal tools ready to be found.</li> :hurtrealbad: 
+<li>- making sure my work area is clean and my enviroment is productive. Also being sure to utilize all my resources available to me</li> :rage1:
+<li>- I feel keeping a moment in the day couple times and reflecting on what needs to be done, what do we need also known issues possibly could be used as a positive. knowledge learned is never a bad thing. You will use it later.</li> :godmode:
 </ol>
 
 
