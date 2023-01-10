@@ -29,3 +29,5 @@ My notes &amp; journal material for Code Fellows :trollface:
 [link for giphy creation aka flexclip](https://www.flexclip.com/):books:
 
 
+>my name is Joshua Green but you can call me Josh, I was born here in the PNW and raised. I spent over 9 years in the Army which has allowed me to really challenge my self. Recently changing my views on failure and my mental process on how I approach challenges whether personal or professional has changed. Learning code regardless the level I am at has changed my life and let me say I feel really good about it! I hope to make it apart of my future and make some contributions but create some futuristic things or work with space data. I am very art driven as well, myself and my family all have their art gene suppose.
+>>I have two Dogs A german Shepherd aswell a 155 pound great dane. We go jogging everynight and mostly take lunar photos and listen to techno or heavy metal, lofi ect what ever we are vibing.
