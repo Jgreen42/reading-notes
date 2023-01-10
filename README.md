@@ -7,13 +7,17 @@ My notes &amp; journal material for Code Fellows :trollface:
 ***Here is my Interpretation of growth mindset***
 
 
+<!-- custom sprite adjacent to reminders are from doom the video game had forgot I created it and made custom emojis? -->
 
-
-- Reminder :hurtrealbad: 1
-- Reminder :rage1: 2
-- Reminder :godmode: 3
+<ol>
+<li>- Reminder</li> :hurtrealbad: 1
+<li>- Reminder</li> :rage1: 2
+<li>- Reminder</li> :godmode: 3
+</ol>
 
 
 [Link to my github portfolio](https://github.com/Jgreen42):octocat:
 
 [link for giphy creation aka flexclip](https://www.flexclip.com/):books:
+
+
